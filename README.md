@@ -10,6 +10,7 @@ Secondly, you need to have Flutter and its dependencies installed in your machin
 
 Then, run the following commands to install project dependencies and get the latest flutter updates.
 ```
+dart pub get
 flutter pub get
 flutter pub outdated
 flutter pub upgrade
