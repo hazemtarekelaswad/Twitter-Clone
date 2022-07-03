@@ -22,10 +22,12 @@ flutter run lib/main.dart
 ```
 or by using any support extentions and tools in VS code or Android Studio.
 
-## Screenshots
-![twitter_gif]()
-
-
 > *Notice that "Twitter Clone" has not been released yet.*
 
 > *Please, check out the collaborators and contributers sections to get to know these awesome people who helped developing this app.*
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/hazemtarekelaswad/Twitter-Clone/blob/main/screenshots/twitter.gif?raw=true" />
+</p>
